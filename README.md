@@ -2,5 +2,5 @@
 
 App Output:
 
-![Web-App](https://github.com/manoj-aryal/Weatherly/blob/master/output.gif)
+![Web-App](https://github.com/pratiksha-adhikari/Weatherly/blob/master/output.gif)
 
